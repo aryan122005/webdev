@@ -1,0 +1,15 @@
+<iDOCTYPE html>
+<html>
+<head>
+<title>Helping students with notes</title>
+</head>
+<body>
+<h1>student notes 1</h1>
+<dl>
+<dl><h2>maths notes</h2></dl>
+<dd><img src="E:\calculus-on-blackboard.webp" alt="Description of image" width="500" height="300"></dd>
+<dl><h2>chemistry</h2></dl>
+<dd><img src="E:\learning-physics_1098-17876.webp" alt="Description of image" width="500" height="300"></dd>
+<dl><h2>physics</h2></dl>
+<dd><img src="E:\balancing-balls-newtons-cradle.webp" alt="Description of image" width="500" height="300"></dd>
+

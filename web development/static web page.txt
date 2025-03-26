@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Static Web Page</title>
+</head>
+<body>
+<h1>Welcome to my Web Page</h1>
+<p>this is paragraph of text on my static web page .</p>
+</body>
+</html>

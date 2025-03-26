@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+    <h1>Embedding an Image</h1>
+    <img src="C:\Users\ARYAN\Pictures\Screenshots\Screenshot 2024-11-30 152405.png" alt="Description of image" width="500" height="300">
+</body>
+</html>
